@@ -1,0 +1,11 @@
+.bar{
+    width: 100%;
+    background-color: #F6EFEF;
+}
+
+.header{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: #911B02;
+}
